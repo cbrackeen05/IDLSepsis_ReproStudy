@@ -11,5 +11,5 @@ torch
 torchvision
 sklearn
 
-Run code for the study can be found in both /originalpaper as well as /orginalcode.
+Run code for the study can be found in both */originalpaper* as well as /orginalcode.
 
