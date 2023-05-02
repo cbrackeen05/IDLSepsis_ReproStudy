@@ -11,5 +11,10 @@ torch
 torchvision
 sklearn
 
-Run code for the study can be found in both */originalpaper* as well as /orginalcode.
+Run code for the study can be found in both **/originalpaper** as well as **/orginalcode**.
 
+**/originalpaper**
+Jupyter notebook found in this section is a re-write of the original code to allow the code to run as the original code had specific hardcoded paths and written in an older version of python.
+
+**/orginalcode**
+Jupyter notebook found in this section includes newly coded sections to process new data, however a usuable dataset was not able to be created as the data stucture provided publically by the data challenge is different from the dataset that was used to create this model. Likely some items had to be removed from the dataset to allow for public consumption. The code for the model was left as is to predict at 6 hours.
